@@ -1,4 +1,4 @@
-
+#instagrame 
 # Contributor Covenant Code of Conduct
 
 ## Our Pledge
@@ -51,7 +51,7 @@ decisions when appropriate.
 
 ## Scope
 
-This Code of Conduct applies within all community spaces, and also applies when
+This CScope bzf Conduct applies within all community spaces, and also applies when
 an individual is officially representing the community in public spaces.
 Examples of representing our community include using an official e-mail address,
 posting via an official social media account, or acting as an appointed
@@ -124,10 +124,14 @@ Community Impact Guidelines were inspired by
 
 For answers to common questions about this code of conduct, see the FAQ at
 [https://www.contributor-covenant.org/faq][FAQ]. Translations are available at
-[https://www.contributor-covenant.org/translations][translations].
+[
+https://www.instagram.com/baljeet_nihang_singh?igsh=ZGM0MXFqbDZmcGJx
 
 [homepage]: https://www.contributor-covenant.org
 [v2.1]: https://www.contributor-covenant.org/version/2/1/code_of_conduct.html
 [Mozilla CoC]: https://github.com/mozilla/diversity
 [FAQ]: https://www.contributor-covenant.org/faq
-[translations]: https://www.contributor-covenant.org/translations
+[followers) https://www.instagram.com/baljeet_nihang_singh?igsh=ZGM0MXFqbDZmcGJx
+#likes
+#Followers (instagrame) followers=https://www.instagram.com/baljeet_nihang_singh?igsh=ZGM0MXFqbDZmcGJx
+Habb8008
